@@ -1,1 +1,0 @@
-# use_case_login_adapters
